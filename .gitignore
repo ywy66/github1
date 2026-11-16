@@ -12,6 +12,14 @@ $RECYCLE.BIN/
 .Trashes
 .directory
 
+
+# ==
+.env
+node_modules/
+====
+
+
+
 # ===== 编辑器 / IDE =====
 .vscode/*
 !.vscode/settings.json
